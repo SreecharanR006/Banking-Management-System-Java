@@ -25,7 +25,5 @@ This project demonstrates core Java concepts along with GUI design and file hand
 
 ---
 
-## 🖥️ Application Preview
 
-📸 *Add screenshots here (recommended)*
 
